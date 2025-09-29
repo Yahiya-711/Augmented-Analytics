@@ -1,0 +1,6 @@
+pandas
+python-dotenv
+plotly
+langchain
+langchain-google-genai
+numpy
