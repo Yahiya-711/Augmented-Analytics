@@ -15,8 +15,8 @@ Conversational Visualization: Chat your way to the perfect chart.
 0 Lines of Code: The number of lines you need to write to get from data to decision.
 
 # Get It Running in 3 Steps
-### i. Install Dependencies
-### ii.Set Your API Key 
-### iii.Create a .env file. Add: GOOGLE_API_KEY="YOUR_API_KEY_HERE"
+i. Install Dependencies
+ii.Set Your API Key 
+iii.Create a .env file. Add: GOOGLE_API_KEY="YOUR_API_KEY_HERE"
 
 Launch the App, Stop analyzing data. Start using it
